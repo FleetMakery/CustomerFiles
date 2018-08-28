@@ -1,0 +1,13 @@
+#veg=input("lollies")
+#veg2=input("cake")
+#veg3=input("pie")
+#veg4=input(" waffles")
+
+veg = input("Type in the name of a vegetable")
+
+print("Mashed",veg  ,"on the ceiling.")
+print("Green" ,beans, "on the floor.")
+print("Stewed peppers in the corner.")
+print("Green" ,veg, "near the door.")
+
+

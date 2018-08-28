@@ -1,0 +1,8 @@
+veg = input("you choose a vegetable?:")
+veg2 = input("you choose a vegetable?:")
+veg3 = input("you choose a vegetable?:")
+veg4 = input("you choose a vegetable?(add a capital letter at the start):")
+print("Mashed",veg,"on the ceiling.")
+print("Green",veg2,"on the floor.")
+print("Stewed",veg3,"in the corner")
+print(veg4,"upon the door.")
